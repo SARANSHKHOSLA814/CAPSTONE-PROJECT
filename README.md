@@ -57,14 +57,16 @@ Layer	Tech Used	Role:
 # 🖥️ Python Side (Gesture Detection)
 
 📦 Install Dependencies:
-
+```
 pip install opencv-python mediapipe cvzone numpy --upgrade
+```
 
 ### 🔗 Required Libraries
 
 Install these libraries using pip:
-
+```
 pip install opencv-python mediapipe cvzone
+```
 
 # 🔥 Bonus Ideas
 
