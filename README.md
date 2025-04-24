@@ -6,7 +6,7 @@
 🚀 Project Overview:
 This project demonstrates a contactless smart light control system using hand gesture recognition and an ESP32 microcontroller. The system detects specific hand gestures through a webcam feed using OpenCV and cvzone, and sends serial commands to the ESP32 to switch the light ON or OFF.
 
-### This smart system uses:
+This smart system uses:
 
 👁️ Computer Vision (OpenCV + MediaPipe) to track your hand gestures.
 
