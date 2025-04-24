@@ -1,6 +1,6 @@
-# Enhancing Smart Home Automation with Gesture-Controlled Contactless Switch
+# Enhancing Smart Home Automation with Gesture-Controlled Contactless Switch 💡
 
-🤖✨ AI-Powered Hand Gesture Light Control
+🤖✨ Hand Gesture Light Control
 "Wave Your Hand, Command the Light!" 💡👋
 
 🚀 Project Overview:
@@ -14,6 +14,8 @@ This smart system uses:
 
 🔌 Zero Physical Contact – perfect for hygiene & futuristic homes!
 
+---
+
 # 🛠️ Tech Stack
 
 Layer	Tech Used	Role:
@@ -24,6 +26,7 @@ Layer	Tech Used	Role:
 |  Brain 🧠  | ESP32 (Arduino C++)	   |  Processes commands & controls LED  |
 |   Comms 📡 | Serial (UART)	         |  Bridges PC ↔ ESP32 wirelessly      |
 
+---
 
 # 🎮 Gesture Mapping
 
@@ -31,6 +34,8 @@ Layer	Tech Used	Role:
 |--------:|------------------|--------|
 |   ☝️    | Index finger (1)  | Light 💡 → ON |
 |   ✌️    | Index + Middle (2)| Light 💡 → OFF |
+
+---
 
 
 # 🚀 Key Python Features:
@@ -45,6 +50,8 @@ Layer	Tech Used	Role:
 
 ✅ Reliable, low-latency control
 
+---
+
 
 # 🌟 Why This Rocks?
 
@@ -54,9 +61,12 @@ Layer	Tech Used	Role:
 
 ✅ Scalable – Add more gestures (e.g., fan speed 🌪️).
 
+---
+
 # 🖥️ Python Side (Gesture Detection)
 
 📦 Install Dependencies:
+
 ```
 pip install opencv-python mediapipe cvzone numpy --upgrade
 ```
@@ -67,6 +77,10 @@ Install these libraries using pip:
 ```
 pip install opencv-python mediapipe cvzone
 ```
+
+---
+
+
 
 # 🔥 Bonus Ideas
 
